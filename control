@@ -1,0 +1,9 @@
+Package: com.tomaszpoliszuk.flipswitchhomebuttonrestingunlock
+Depends: firmware (>= 9.0), mobilesubstrate, com.a3tweaks.flipswitch
+Name: Flipswitch - Home Button Resting Unlock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Flipswitch toggle for Home Button Resting Unlock
+Author: Tomasz Poliszuk
+Section: Addons (Flipswitch)
+dev: tomaszpoliszuk
